@@ -1,5 +1,10 @@
-# instruction for Automate AnyDo
+# Screenshots
 
-1. Close all existing brouser tab contains AnyDo's webpage and keep sigout from your account
-2. make sure you Restart your karnel and run all jupyter cell at a time
-3. It might misbehave the login portion. If failed: Restart the note book and follow step:1 and so on.
+![](allure_report_screenshot/Screenshot(45).png)
+
+![](allure_report_screenshot/Screenshot(46).png)
+
+![](allure_report_screenshot/Screenshot(47).png)
+
+![](allure_report_screenshot/Screenshot(48).png)
+
