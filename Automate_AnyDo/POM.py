@@ -4,7 +4,11 @@ from selenium import webdriver
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.keys import Keys
 import time
-from POM import Login ,CreatTask,CreateList,Uitilities
+from login import Login
+from create_task import CreatTask
+from create_task import CreateList
+from utils import Uitilities
+
 
 #initiating browser executable path
 
